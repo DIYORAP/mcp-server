@@ -265,9 +265,6 @@ The server provides detailed logging for debugging:
 4. Run tests and linting
 5. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details.
 
 ## Resources
 
@@ -277,15 +274,6 @@ MIT License - see LICENSE file for details.
 - [TypeScript](https://www.typescriptlang.org/)
 - [Zod Schema Validation](https://zod.dev/)
 
-## Assignment Completion
-
-This project was created as part of the Ressl Assignment, implementing:
-- ✅ MCP Server with proper architecture
-- ✅ File Search Tool with keyword matching
-- ✅ Zod-based schema validation
-- ✅ Error handling and logging
-- ✅ TypeScript best practices
-- ✅ Tested with MCP Inspector
 
 **Author**: Parthik Diyora  
 **Date**: November 2, 2025
